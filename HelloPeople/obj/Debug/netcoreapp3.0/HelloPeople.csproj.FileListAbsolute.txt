@@ -1,0 +1,11 @@
+C:\Users\юлия\source\repos\HelloPeople\HelloPeople\bin\Debug\netcoreapp3.0\HelloPeople.exe
+C:\Users\юлия\source\repos\HelloPeople\HelloPeople\bin\Debug\netcoreapp3.0\HelloPeople.deps.json
+C:\Users\юлия\source\repos\HelloPeople\HelloPeople\bin\Debug\netcoreapp3.0\HelloPeople.runtimeconfig.json
+C:\Users\юлия\source\repos\HelloPeople\HelloPeople\bin\Debug\netcoreapp3.0\HelloPeople.runtimeconfig.dev.json
+C:\Users\юлия\source\repos\HelloPeople\HelloPeople\bin\Debug\netcoreapp3.0\HelloPeople.dll
+C:\Users\юлия\source\repos\HelloPeople\HelloPeople\bin\Debug\netcoreapp3.0\HelloPeople.pdb
+C:\Users\юлия\source\repos\HelloPeople\HelloPeople\obj\Debug\netcoreapp3.0\HelloPeople.csprojAssemblyReference.cache
+C:\Users\юлия\source\repos\HelloPeople\HelloPeople\obj\Debug\netcoreapp3.0\HelloPeople.AssemblyInfoInputs.cache
+C:\Users\юлия\source\repos\HelloPeople\HelloPeople\obj\Debug\netcoreapp3.0\HelloPeople.AssemblyInfo.cs
+C:\Users\юлия\source\repos\HelloPeople\HelloPeople\obj\Debug\netcoreapp3.0\HelloPeople.dll
+C:\Users\юлия\source\repos\HelloPeople\HelloPeople\obj\Debug\netcoreapp3.0\HelloPeople.pdb
